@@ -11,5 +11,6 @@ public class git_test {
         System.out.println("second change");
         System.out.println("third change");
         System.out.println("hot-fix change");
+        System.out.println("master test");
     }
 }
