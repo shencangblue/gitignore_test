@@ -13,5 +13,6 @@ public class git_test {
         System.out.println("hot-fix change");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("push gitignore_test");
     }
 }
